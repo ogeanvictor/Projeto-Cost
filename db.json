@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "name": "Design do Projeto",
+      "budget": "7000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 3000,
+      "services": [
+        {
+          "name": "Contratar Designer",
+          "costs": "3000",
+          "description": "Contratar Designer",
+          "id": "052cbcd3-dc13-4f10-b996-64e6db82704b"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Desenvolvimento WEB",
+      "budget": "40000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 14500,
+      "services": [
+        {
+          "name": "Desenvolvedor FrontEnd",
+          "costs": "6500",
+          "description": "Contratar Desenvolvedor FrontEnd",
+          "id": "f469b4d8-7d7d-4895-9c95-cde013acfbd7"
+        },
+        {
+          "name": "Desenvolvedor BackEnd",
+          "costs": "8000",
+          "description": "Contratar Desenvolvedor BackEnd",
+          "id": "2bf5a2db-ecdb-4a96-a1ec-dac42056f650"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
